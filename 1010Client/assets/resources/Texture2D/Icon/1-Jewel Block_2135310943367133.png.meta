@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "441bde21-492d-435a-9e9f-9bdac4d8be70",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1-Jewel Block_2135310943367133": {
+      "ver": "1.0.3",
+      "uuid": "d8b78e65-0115-4c5f-88a0-d0e8782a6e1e",
+      "rawTextureUuid": "441bde21-492d-435a-9e9f-9bdac4d8be70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 120,
+      "height": 120,
+      "rawWidth": 120,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

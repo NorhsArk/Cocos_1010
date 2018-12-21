@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bb105e84-d824-4975-8d1b-82f7c29cd3b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "2-Maze World_160840521263423": {
+      "ver": "1.0.3",
+      "uuid": "47743f8a-bc70-465a-b144-76d03faac451",
+      "rawTextureUuid": "bb105e84-d824-4975-8d1b-82f7c29cd3b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 120,
+      "rawWidth": 120,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
